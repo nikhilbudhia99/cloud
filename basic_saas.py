@@ -41,4 +41,8 @@ while again=='y':
 	if again=='y':
 		print y
 		choice=raw_input("enter your choice  :  ")
+	elif again=='n'
+		print  "closing  programe"
+		time.sleep(2)
+		exit()
 
